@@ -1,5 +1,5 @@
 # Test task: Select
-[Illustration](./illustration.png)
+![Illustration](./illustration.png)
 
 ## Technical specification
 You need to develop a Select component and design it as in the [Figma layout](https://www.figma.com/design/3glzmEno92oZA2f9RupSfF/Untitled?node-id=0-1&p=f&t=UqtMz5YPgMUZJNTh-0).
